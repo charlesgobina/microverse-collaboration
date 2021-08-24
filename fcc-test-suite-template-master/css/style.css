@@ -1,6 +1,6 @@
 li{
     list-style: none;
 }
-nav div .navbar-nav{
-    float: right !important;
+nav{
+    position: fixed;
 }
